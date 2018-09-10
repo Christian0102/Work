@@ -1,0 +1,14 @@
+#idea
+.idea
+#netbeans
+/nbproject/
+/build/
+ 
+#composer
+composer.lock
+composer.phar
+/vendor/
+ 
+#mac
+.Trashes
+.DS_STORE
